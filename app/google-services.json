@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588342071402",
+    "project_id": "scrapmanagement07",
+    "storage_bucket": "scrapmanagement07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588342071402:android:67f531f78de1068948ba13",
+        "android_client_info": {
+          "package_name": "com.example.scrapmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFOGuhBi89So-C6cLa4zUBHdoRvIHvq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

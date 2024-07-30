@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScrapManagement</string>
+    <string-array name="register_types">
+        <item>User</item>
+        <item>Scrapman</item>
+    </string-array>
+    <string-array name="login_types">
+        <item>User</item>
+        <item>Scrapman</item>
+    </string-array>
+    <string name="add_button_description">Add Task</string>
+    <string name="recycler_view_description">List of items</string>
+    <string name="image_desc">Post Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_all_scrap_man_profile">AllScrapManProfile</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
